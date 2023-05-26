@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 public class ArraysDemoS23FriPM {
-
+    //comment added at 12:32
     public static void main(String[] args) {
         System.out.println("Enter a word");
         Scanner input = new Scanner(System.in);
